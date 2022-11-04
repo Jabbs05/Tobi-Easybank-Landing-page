@@ -407,6 +407,19 @@ footer h4{
         transform: translateX(60%);
         margin-bottom: 100px;
     }
+    .first button:hover{
+        border-radius: 25px;
+        height:40px;
+        padding:8px 20px;
+        background: linear-gradient(90deg,hsl(136, 84%, 81%), hsl(192, 74%, 79%)
+        );
+        border-width: 0px;
+        color: #fff;
+        font-weight:bolder;
+        margin-top: 0px;
+        transform: translateX(60%);
+        margin-bottom: 100px;
+    }
     .first img{
         width: 80%;
         margin: 0 auto;
@@ -591,6 +604,18 @@ footer h4{
         height:32.4px;
         padding:4px 25px;
         background: linear-gradient(90deg,hsl(136, 65%, 51%), hsl(192, 70%, 51%));
+        border-width: 0px;
+        color: #fff;
+        font-weight:bolder;
+        top:72%;
+    }
+    footer button:hover{
+        position: absolute;
+        left:33%;
+        border-radius: 25px;
+        height:32.4px;
+        padding:4px 25px;
+        background: linear-gradient(90deg,hsl(136, 84%, 81%), hsl(192, 74%, 79%));
         border-width: 0px;
         color: #fff;
         font-weight:bolder;
